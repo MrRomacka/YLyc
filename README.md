@@ -19,7 +19,7 @@ II. Графы - [.Project Study](https://drive.google.com/drive/folders/1HPigeQ
   8. Собственный проект на 300+ строк - [Conduit](https://github.com/MrRomacka/Conduit)
   
 IV. Web
-  1. Yandex.Maps API - 
+  1. Yandex.Maps API - [YMaps Api](https://drive.google.com/drive/folders/11vZhlfcWAR1lwEo-cvAu8p5u4mWkpR32)
   2. Проверка на "телефонность" - [II_ExceptTry](https://drive.google.com/drive/folders/1IOpQbuOeibsXfZCnLZCqzLMXUYnYokx4)
   3. Проверка на "парольность" - [II_ExceptTry](https://drive.google.com/drive/folders/1IOpQbuOeibsXfZCnLZCqzLMXUYnYokx4)
   4. Сайт для Марса - [WebTry](https://github.com/MrRomacka/WebTry)
