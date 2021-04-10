@@ -28,7 +28,7 @@ IV. Web
 
 # Задания Четвёртого семестра:
 
-I. Сайт с backend-методами - (КЕК)
+I. Сайт с backend-методами - [ConduitV2](https://github.com/MrRomacka/ConduitV2) (лишь Read, CreateUpdateDelete может позже)
 
 II. Бот для ВК - [vkgera](https://github.com/MrRomacka/vkgera)
 
